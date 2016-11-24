@@ -1,0 +1,3 @@
+Terrain:
+35 - Visina otoka
+75 - Visina planina (+/- od oka dizanje)
